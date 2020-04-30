@@ -1,9 +1,22 @@
-## Welcome to GitHub Pages
+## Welcome to _forget_
 
-You can use the [editor on GitHub](https://github.com/abetea/forget/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can find a few things on this page. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For example, you could find my fiction writing.
 
+Or not.
+
+Or you could find my resume.
+
+Or not.
+
+You might also be tempted to find my blog posts about my decade+ experience as a DM.
+
+Or not.
+
+I don't know why you're here, but you can enjoy it. 
+
+Or not.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
